@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reto-2-Sprint-2/static/css/main.8b785e08.css",
+    "main.js": "/Reto-2-Sprint-2/static/js/main.ed583699.js",
+    "index.html": "/Reto-2-Sprint-2/index.html",
+    "main.8b785e08.css.map": "/Reto-2-Sprint-2/static/css/main.8b785e08.css.map",
+    "main.ed583699.js.map": "/Reto-2-Sprint-2/static/js/main.ed583699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b785e08.css",
+    "static/js/main.ed583699.js"
+  ]
+}
